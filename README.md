@@ -1,0 +1,2 @@
+# kedua
+ini kedua
